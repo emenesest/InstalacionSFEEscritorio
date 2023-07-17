@@ -10,7 +10,7 @@
 - [ ] Cliente Existente
 ### MÓDULO
 - [x] Facturador
-- [ ] Claja
+- [ ] Caja
 - [ ] Almacen
 ### PRESENCIAL
 - [x] Si
@@ -18,8 +18,14 @@
 
 - [x] ***Instalacion***
 - [ ] ***Reinstalación***
+
 ## Instalación
+<details>
+   <summary open>abrir instalacion</summary>
+
 ***H. Inicio:*** 1545454 | ***F. Inicio:*** 14552
-1. First list item
-   - First nested list item
-     - Second nested list item
+1. Deep freeze, Hora, Región y fecha en el formato correcto
+   - [x] Revisar si está Congelado(Deep Freeze)
+   - [ ] Formato Región: Perú, Formato Fecha y Formato Símbolo decimal
+ </details>
+
